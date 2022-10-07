@@ -10,45 +10,53 @@ import pandas as pd
 [print('\n') for i in range(10)]
 
 
-print(os.listdir('school-subject-prediction/articles'))
 
 
-
-# data = {
-#     'texts': [],
-#     'target_names': [],
-#     'targets': [i for i in range(5)]
-# }
-
-# file_names = ['bio.txt']
-# for file in file_names:
-#     with open(file) as f:
-#         data['texts'].append(f.read().lower())
+data = {
+    'texts': [],
+    'target_names': [],
+    'targets': [i for i in range(5)],
+}
 
 
-# word_vector = CountVectorizer()
-# word_vector_counts = word_vector.fit_transform(data['texts'])
+files = os.listdir('school-subject-prediction/articles/')
+for file in files:
+    data['target_names'].append(file[:-4])
 
-# term_freq_transformer = TfidfTransformer()
-# term_freq = term_freq_transformer.fit_transform(word_vector_counts)
-
-# model = MultinomialNB().fit(term_freq, data['targets'])
+    with open(f'school-subject-prediction/articles/{file}', 'r') as f:
+        data['texts'].append(f.read().lower())
 
 
 
 
-# # Testing model
+word_vector = CountVectorizer()
+word_vector_counts = word_vector.fit_transform(data['texts'])
+
+term_freq_transformer = TfidfTransformer()
+term_freq = term_freq_transformer.fit_transform(word_vector_counts)
+
+model = MultinomialNB().fit(term_freq, data['targets'])
 
 
-# fake_texts = []
 
-# fake_texts = [text.lower() for text in fake_texts]
+fake_texts = [
+    'biology'
+]
 
-# fake_counts = word_vector.transform(fake_texts)
-# fake_term_freq = term_freq_transformer.transform(fake_counts)
+fake_texts = [text.lower() for text in fake_texts]
 
-# predictions = model.predict(fake_term_freq)
-# probabilities = model.predict_proba(fake_term_freq)
+fake_counts = word_vector.transform(fake_texts)
+fake_term_freq = term_freq_transformer.transform(fake_counts)
+
+predictions = model.predict(fake_term_freq)
+
+for prediction in predictions:
+    print(data['target_names'][prediction])
+
+
+
+
+probabilities = model.predict_proba(fake_term_freq)
 
 
 
