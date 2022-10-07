@@ -1,0 +1,68 @@
+For this Project you are using Colab to explore, analyze, and/or organize Strings of some sort of information.  
+
+Use Lists, Dictionaries, Methods, and any other skills we've learned in order to create something that shows what you've learned so far.
+
+Strings, Lists, Dictionaries and Patterns
+
+
+Applied Computer Science Syllabus
+
+Description:
+Do you want to take a Programming class and come away with something you can use right away?  Applied CP is an Entry Level Programming Course where we'll look at the different ways you can apply Programming to your life and classes. We'll look at automating processes, collecting and organizing data for science and math, analyzing texts for english and history, and other ways to apply CS to our everyday tasks. Harness the power of programming to improve your productivity, research, and enhance future projects!
+
+Curriculum:
+
+Basic Programming Skills
+Self Directed Learning and Skill Discovery
+Understanding and applying modules and other abstractions
+
+Class Expectations:
+Classroom Engagement
+Computer Science is a field that requires careful engagement and thoughtful reflection in order to make progress.  Like learning to speak a new language, it's important to continue to think about and process the new information and make it part of the way we think and understand the world around us.  If you find yourself stuck, confused, uncertain or just plain curious, it's expected that you'll engage with a classmate, or your teacher in search of a resolution.
+
+Project Submissions
+Projects in Computer Science will often be multi day or multi week projects.  Because of this, it's understandable that some students experience delays or issues.  Due dates are expectations to be met.  If you are not able to meet them, communication is expected.  All projects are needed in order to receive a grade that accurately represents your learning in this class. 
+
+At the end of the semester, any projects to be turned in past the last day of class must be communicated with the instructor and will be given a hard stop submission deadline. 
+
+Homework
+Homework is not commonly assigned.  However, most students will need to use some time at home in order to complete their projects.
+
+Matt Hesby
+mhesby@nuevaschool.org
+
+Please feel free to email me, come to my pod, find me in the hallway.  I am happy to answer questions, help you find your way, or just chat about what you're working on.
+What should I explore by the end of today?
+
+What is a list
+How do i access the different parts of a list
+What is a dictionary
+How do I access the different parts of a dictionary
+What's a loop and how do I loop through both data structures?
+How can I use a loop to speed up my data collection?
+How can I create a dictionary to organize and collect some data?
+Go to Canvas and find the Data and Loops Colab
+
+If you want to go through the first part of the Colab together, come to the front of the class.  Otherwise, you're free to explore on your own.
+There's a lot of List Methods so you can do things like, add new things, remove things, put two lists together ect!
+
+oops let us repeat a task over and over.  Range creates a list of numbers for us to "iterate over".  
+
+range(5)                                    range(0, 10, 2)
+
+
+
+Go to Canvas and find the Data and Loops Colab
+
+If you want to go through the first part of the Colab together, come to the front of the class.  Otherwise, you're free to explore on your own.
+
+
+Yes.  It is.
+
+So just remember.
+Lists => A long list of things organized by number
+Dictionary => A collection of data organized by name
+
+Loops let us loop through both
+
+range(6, 10)

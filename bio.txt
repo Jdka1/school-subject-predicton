@@ -1,0 +1,650 @@
+Welcome to BIO101! This first assignment will help you understand to navigate this Canvas page, and will provide opportunities for me to get to know you better. Here is the link to the the assignmentLinks to an external site..
+
+If you encounter any difficulties, please feel free to contact me at rbump@nuevaschool.org. 
+
+ 
+
+Audio walk-through of this assignment below:
+We commonly use a check-in question format to assess content learning in biology. Every couple of weeks, at the beginning of class, you will individually answer 1 or 2 questions related to the topic we just learned (this is written and on paper). You can think of this as a small quiz — it is assessed but not high-stakes. You will complete this check-in on your own, without the aid of notes.
+
+A check-in question allows us to assess your learning of one content row on the rubric. The relevant learning standard for this check-in is: "Student demonstrates an understanding of how bonding, electronegativity, and intermolecular forces influence molecular function using accurate terminology and detail."
+
+
+In order to prepare for the check-in, you may review...
+
+Slides from relevant class sessions
+The review material found on the first half of your Properties of Water Exploration activity
+Chemistry of Life: Practice Questions
+Supplementary textbook readings from the Freeman textbook: Section 2.1 and part of 2.2: Pages 99 - 109 (stop before acid-base chemistry). These sections will review both chemical concepts related to biology & the structure and properties of water. Depending on your comfort with the material, you may need to really dig in or you may just need to do a quick skim to jog your memory.
+Supplemental video reviewLinks to an external site. on electronegativity and intermolecular forces
+Through discussion with your classmates ahead of time!
+
+You now know how to navigate our course Canvas page, where you will find the resources listed above. Should you have any difficulty accessing these resources, do let me know. Happy reviewing!
+mA: Check-In Question - Chemistry of Life (in class)
+ Chemistry of Life: Practice Questions (Extended)
+
+Attempt to answer the following questions without the support of your notes. Once you have attempted every question, you may review your notes, summary chart, and lecture materials to fill in any gaps in your understanding. Add extra details to your notes to help you solidify each concept. Then, return to these questions and clarify your answers. (Please disregard the numbering associated with each question.)
+
+
+
+
+What is occurring at the level of valence shell electrons when a covalent bond forms?
+
+
+
+
+
+
+
+
+Why does the electronegativity of elements tend to increase as you move up and to the right along the periodic table?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Propose a detailed molecular explanation for the basis of the expression “Oil and water don’t mix.”
+
+
+
+
+
+
+
+
+15. Draw the structural formula of formaldehyde (CH2O) with dots to indicate the relative locations of the electrons being shared in each covalent bond. Note any partial charges that may be associated with each atom based on the relative electronegativities of C, H, and O. 
+
+
+
+
+
+
+
+
+
+
+
+16. Draw the structural formula of ammonia (NH3) with dots to indicate the relative locations of the electrons being shared in each covalent bond. Note any partial charges that may be associated with each atom based on the relative electronegativities of N and H. 
+
+
+
+
+
+Name:
+Block: 
+
+Properties of Water Exploration
+
+Water is essential for life as we know it. How does the molecular structure of water (form) enable its diverse properties (function)?
+
+Background
+Below are some bonding and atomic force concepts that you will hopefully remember from your study of chemistry last year. You may remember the working definitions and appropriate application of these concepts, but, in case you need a refresher, some definitions and explanations are provided here.   
+
+Lewis dot structure - A way of representing atoms or molecules by showing valence electrons as dots surrounding the element symbol where a bond is represented as a line containing two valence electrons and a dot represents individual electrons.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bonding - chemical bonding is a net force of attraction between or within atoms and/or ions that result from combined (net) electrostatic forces (often both repulsive and attractive but, if a bond exists, there is a net attraction). The common classification of chemical bonding types include covalent, ionic, metallic, and network covalent. 
+
+Intramolecular bonding - the forces that hold atoms together within a molecule. Intramolecular chemical bonds are formed when electrons in different atoms/ions interact with each other to make an arrangement that is more stable than when the atoms are apart. 
+
+Electronegativity - the tendency of an atom participating in a covalent bond to attract shared (through bond) electrons. Essentially, the electronegativity of an atom is a relative value (most commonly using the 0-4 Pauling scale) of that atom's ability to attract election density toward itself when it bonds to another atom. 
+
+
+Bond Polarity - the measure of the extent to which a bond exhibits polarity as it relates to the distribution of electrical charge over the atoms connected by the intramolecular bond. The polarity of a bond—the extent to which it is polar—is determined largely by the relative electronegativities of the bonded atoms. If electrons are more attracted to one atom than another in a covalent bond, they will spend more of their time near the more attractive atom. The higher the electronegativity of an element, the more that atom will attempt to pull electrons towards itself and away from any atom it bonds to. This results in a charge imbalance, with one atom having a slight, or partial, negative charge and the other having a slight, or partial, positive charge, and thus creating a bond dipole. If a bond has a dipole, it is called a polar bond. Thus, there is a direct correlation between electronegativity and bond polarity. A bond is nonpolar if the bonded atoms have equal electronegativities (or below an electronegativity difference of 0.4). Bond dipoles are indicated next to bonds either with the Greek letter delta (δ) and the corresponding negative and positive charges (below left) or an arrow that points to the negative end and that has a plus on the positive end (below right).             
+	
+	Bond polarity representations: 	
+
+
+
+Molecular Polarity - the measure of the extent to which an entire molecule exhibits polarity due to the net contribution of all the individual bond polarities within it. A molecule will be net polar if all of the dipoles add up to a net dipole, or dipole moment. A molecule will be nonpolar if a) it has no dipoles or b) the dipoles cancel each other out. This occurs if the dipoles have the same magnitude—that is, the electronegativity differences between the bonding atoms are identical—and opposite directions.
+
+Intermolecular forces (IMFs)/bonds - the forces that hold groups of molecules together. The common classification of intermolecular bonding types include (in increasing order of strength): London dispersion forces (LDFs) or induced dipole, dipole-dipole, hydrogen bond attractions and ion-dipole. LDFs and dipole-dipole forces (including hydrogen bond attractions) are collectively known as van der Waals forces. Covalently bonded molecules can have any mix of these three kinds of intermolecular forces and ions have to be present for ion-dipole forces to manifest—but all substances, at least, exhibit LDFs (induced dipole forces).
+
+Conformation of a single water molecule
+
+
+
+
+
+From Nueva FOS: 
+Lewis dot structures, polarity, and intermolecular forces reading
+
+
+Additional Resources
+Bonding Models and Lewis Structures (CrashCourse)
+Polar & Non-Polar Molecules (CrashCourse)
+Intermolecular Forces (University of Texas)
+Intermolecular bonding (Chemguide)
+
+
+Activity
+You will be assigned one of the interesting properties of water, listed below.
+
+
+In groups, you will determine how to demonstrate the property you are assigned, and attempt to explain why this property is possible in terms of the molecular interactions between more than one water molecule.  
+Try to develop a brief demonstration you can show to the whole class that reveals the assigned water property.  
+
+
+Optional: For some of the group assignments (depending on what property you are given) it might be useful to do a demonstration of the properties of water through a comparison with another pure substance. You can look at the provided materials to see if this might be an interesting option for your group.
+
+
+Properties of water
+Surface tension
+Capillary action
+“Universal” solvent
+High specific heat capacity 
+Liquid vs solid phase densities
+
+Materials: 
+Water (and colored water)
+Oil
+Alcohol
+Bins of ice
+Hotplates
+Glass tubes
+Parafilm
+Sugar
+Transfer pipettes
+Thermometers 
+
+Summary Chart: Water Form and Function 
+
+Property of Water (details about function)
+Molecular rationale 
+(details about structure/form)
+Biological implication
+(why it is important for life)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18. What intermolecular forces might exist between the molecules you drew above? Label and indicate these forces in the diagram above.
+
+
+
+
+
+
+BIO101 Canvas Scavenger Hunt
+Visual Guide to Human Cells: Function and Form
+Homework:
+
+Explore one cell function that interests you from the Visual Guide to Human CellsLinks to an external site.. Investigate the cell structures (form) underlying this function. Read the description of the cell structure on the right-hand side. Feel free to investigate other cell functions and structures if you are curious!
+Submit:
+
+One sentence summary of what cell structure and function you learned about.
+One question you now have about cellular life.
+ Evolutionary conservation and divergence of cellular life: Polysaccharide Structure and Function
+
+ Evolutionary conservation and divergence of cellular life: Polysaccharide Structure and Function
+
+Deliverable: In the groups you formed during class, create a 1 slide google slide, with representative images/sketches, and answers to questions (I-IV) below.
+
+Is your organism a prokaryote or eukaryote? How do you know?
+What are the carbohydrate components of this type of cell structure? (Describe in terms of its specific monosaccharides and polysaccharides). If there are multiple types of polysaccharides in your structure, you can focus on one.
+What about this polysaccharide structure is important for its function in the organism it is found in? 
+If you organism is a prokaryote, compare your carbohydrate structure to that of a eukaryote’s carbohydrate structure. If you organism is a eukaryote, compare your carbohydrate structure to that of a prokaryote’s carbohydrate structure.  What similarities and differences do you notice? 
+I have included starting resources on the Carbohydrate slidesLinks to an external site., but feel free to (you may need to) explore other resources to supplement your understanding. Please cite the additional sources that you use. 
+
+
+The following rubric item is being assessed in this assignment: Student demonstrates an understanding of evolutionary conservation and divergence of cellular structures and features
+
+mA: Check-In Question - Lipids and Carbohydrates (in class)
+At the beginning of class, you will individually answer 1 or 2 questions related to the topics we just learned. You will complete this check-in on your own, without the aid of notes. A check-in question allows us to assess your learning of one content row on the rubric. The relevant learning standard for this check-in is: "Student demonstrates an understanding of how carbohydrate and lipid structures influence cellular functions using accurate terminology and molecular detail."
+
+
+In order to prepare for the check-in, you may review...
+
+Slides from relevant class sessions.  
+
+Supplementary textbook readings from the Freeman textbook:
+Lipids: Chapter 6
+Introduction Page 163
+Section 6.1 and Table 5.1 Page 164 - 167
+Section 6.2 Page 168 - 170
+Additional readingLinks to an external site. on membranes and fluidity
+Carbohydrates: Chapter 5
+Introduction Page 151
+Section 5.2 and Table 5.1 Page 154 - 157
+Section 5.3: Carbohydrates Can Provide Structural Support Page 158
+
+Supplemental video review
+Video on LipidsLinks to an external site. (khan academy) 
+Video on plasma membranesLinks to an external site. (khan academy) 
+Video on lipids and membranesLinks to an external site. (amoeba sisters) 
+Video review on carbohydratesLinks to an external site. (general) (khan academy)
+Video review on carbsLinks to an external site. (more thorough) (osmosis/elsevier)
+Through discussion with your classmates ahead of time!
+
+In the optional review sessions, open to anyone, in room 307:
+Monday, Sept 26th from 8:20 - 8:50am
+Monday, Sept 26th from 3:15 - 3:45pm
+Tuesday 27th from 8:20 - 8:50am 
+ 
+
+Should you have any difficulty accessing these resources, do let me know. Happy reviewing!
+
+
+Bio101 Problem Set #1 - Lipids and Carbohydrates
+
+
+Instructions: Please complete this problem set to the best of your ability. The following questions are designed to develop your understanding of the concepts covered so far in class about lipid and carbohydrates in the context of cell biology. 
+
+Be sure to respond to the question at the top of the page: Problem set completed in consultation with: (name specific people, textbook, online resources, etc.) 
+
+ 
+
+*Blocks 2 and 3, please wait to attempt the Carbohydrate section of the problem set until after class together on Monday.
+
+Pre-Lab #1 Homework: Gram Staining
+In anticipation our first official day of Mystery Microbe Lab experimentsLinks to an external site. on Thursday and Friday this week, please complete the following pre-lab activity.
+
+You must complete this pre-lab before you will be able to perform gram staining on your specific mystery species. This video will introduce the theory behind Gram staining, and in class we will walk through the protocol for Gram staining.
+
+
+Please watch this 8-minute videoLinks to an external site.: and respond to the following three questions before next class.
+
+https://www.youtube.com/watch?v=B26Zyihfmto
+
+Which class of bacteria (Gram-positive or Gram-negative) are able to retain the crystal violet dye? Why is this? Explain in terms of the peptidoglycan cell walls of each class of bacteria.
+
+What is the purpose of the heat fixation step of gram staining?
+
+Which class of bacteria (Gram-positive or Gram-negative) will visually appear pink after being stained with Safranin? Explain your thinking. 
+
+Concept map/list as many things about “biology” as you can for 5 minutes. 
+Additional text-based resources for your reference: 
+
+Simple resourceLinks to an external site. 
+More detailed resourceLinks to an external site. 
+Pre-Lab #2 Homework: Differential Agars and Metabolism
+ anticipation our second day of the Mystery Microbe Lab next week, please complete the following pre-lab activity.
+How does the living world around us work?
+Ecosystem, organismal, cellular, and molecular levels
+
+You must complete thWhat resources are helpful for us to investigate the living world around us?
+What do scientific tools help us know? When do we use certain tools, and why? What are their limitations? 
+What sources of knowledge do we turn to?
+is pre-lab before the second day of lab.
+Observation
+Form and function
+Size and scale 
+
+
+Ancestral wisdom, modern technologies
+Deep time: evolutionary timescales
+The power of words: naming life and its processes
+Key orientations and centrObservation  
+
+
+Kilo: attentively examining with all senses
+Foundational to understanding and interacTake some time to reflect: think of a classroom environment that you deeply enjoyed and thrived in.
+ting Examine the sample(s) in front of you. 
+What do you notice about the form of different structures? 
+Why might these forms exist? What function might they serve?
+with the natural world 
+al concepts in biology this year
+
+
+Wonder and rigor 
+ 
+
+
+Please read though the Lab Day 2 sectionLinks to an external site. of the Mystery Microbe Lab document and respond to the following two questions before next class.
+
+For the Simmon’s Citrate Agar Test, how wHow can we report our findings in a way that is accurate, rigorous, and compelling?
+Scientific storytelling as a creative endeavor
+Biases and objectivity
+Balancing thorough details and concise reporting
+ill you interpret a citrate agar plate that turns blue 48 hours after inoculation?
+Communication:
+
+Email: rbump@nuevaschool.orgWhat is life? What capacities does life entail? What does life require?
+How has time, from the scale of billions ofStewardship Agreements
+Course Topics and Rubric Overview Water as the essential molecule for life on earth 
+Recall: 
+Electronegativity 
+DipolesHydrogen bonds between wateSurface tension
+Water tends to stick together and form beaded droplets. Why?
+Capillary actionSurface tension
+Water tends to stick together and form beaded droplets. Why?
+Capillary action
+Water can move up a tube against the force of gravity. How?
+“Universal” solvent
+Water can dissolve many organic and inorganic substances. How?
+High specific heat capacity 
+The temperature of water In order to prepare for the check-in, you may review...
+Slides from relevant class sessions
+The review material found on the first half of your Properties of Water Exploration activity
+Chemistry of Life: PractiWork through Chemistry of Life: Practice Questions on your own.
+First, attempt to answer the following questions without the support of your notes. Then, you may review your notes, summary chart, and lecture materials to fill in any gaps in your understanding. I will be coming around to provide support.
+
+ If you finish early, please explore the Extended Learning       section of these slides. You may choose to read one of the scientific articles or watch one of the videos on your own.
+ce QuestionsExample 2
+Figure with images of the Collect photographic data, and record written descriptive data about each of today’s tests. (You may want to take a photo of your citrate and amylase plates today as a “before” comparison to reference after incubation.)
+ Partner 1
+1 alcohol lampPartner 2Complete the KOH string test, plate your bacteria on citrate and starch agars, passaging bacteria onto growth agar plate. 
+
+6 sterile loops
+1 citrate agar plate ( When you finish, please help each other clean up all materials (clean up checklist on the back page of your protocol). You may spend the remaining class time filling out your digital lab notebook with today’s data, and your group work contract.
+60 mm)Everyone: Your practice plating attempt from Lab Day Zero
+1 starch agar plate (60 mm)Read through your protocol to use today’s materials safely and with precision
+Your plate of mystery bacteriaHomework:
+
+Read through the Day 3 Mystery Microbe lab procedure before our next class. 
+Add today’s data to your lab notebook, and begin eliminating species. 
+Given the possible species left, decide what three temperatures you will test next class (25℃, 30℃, 37℃, 55℃).
+
+Lab Partners: 
+Continue filling out your groTitle
+Figure labels and caption that describes each and every image shown. 
+*No free-floating, unlabeled images!!
+If using microscope, magnification details included
+Qualitative descriptions can be useful, but must be brief and simple. 
+Consistently-reported data if showing between conditions
+Microscope images: scale/magnification should be the same
+Determine what is necessary for your audience to see. Do they need the whole image? Will a cropped region help focus their attention? BUT: If one image is cropped or edited, all other related images should be. 
+If you are reporting descriptive data, be thorough about every condition
+Report data honestly: it is ok to report inconclusive or confusing data
+Do not crop conflicting data out of an image; it is better to show this variability and discuss its meaning later in your Discussion section.
+Images and description of your procedure aIn the Staining Protocol section…
+Partner 1
+2 packs of cotton swabs (2 swabs/pack)Please write your mystery species ID on your lab protocol, and make sure you remember this ID.
+
+1 alcohol lampCleanup Checklist:
+
+
+Upon finishing the lab, please complete the following checklist…. 
+Extinguish the alcohol lamp flame if you have not already done so
+Dispose of any material contaminated with live bacteria in the red biohazard bin including cotton swabs, loops, etc. 
+Place used but unwanted slides in the broken glass disposal box.
+Remove Gram-stained slides from the microscopes and place any labeled slides that you want to keep in a tray or box designated by your teacher.
+Wipe the 100X objective with optical lens paper (NOT paper towels or Bibulous paper) repeatedly until you can no longer see any oil residue coming off the lens onto the lens paper.
+Return the 4X objective lens to be over the microscope stage. 
+Pick up and return any unused materials (alcohol lamps. sterile cotton swabs, microscope slides, Gram staining materials, microscope oil, Sharpie pens, Bibulous and lens paper, etc.) to the appropriate storage area or bins as designated by your teacher. 
+Wipe down your lab surface with 70%Homework:
+
+Read through the Day 2 Mystery Microbe lab procedure before our next class and answer the two pre-lab questions
+
+Tie up loose hKnow where tBefore you can begin plating your bacteria, you must first label the appropriate plate or tube you will be using.
+he fire extinguishers are.
+Never leave a flame unattended.
+Always cap the alcohol lamp once it is no longer needed.
+Know the purpose The size of a single organism of our “Practice Bacteria” is ~ 1 - 3 μmHow much bacteria should you pick up on a loop to spread on a new plate?
+
+of your alcohol lamp:
+Keep your body a safe distance away.Before you can begin plating your bacteria, you must first label the appropriate plate or tube you will be using.
+Label your plates on the BOTTOM (not the lid)
+Step 1: Light your alcohol lamp. With a Step 2: Open your new agar plate, and gently touch the loop to the agar surface. The loop should glide over the surface, spreading back and forth across the plate.
+new sterile loop, gently pick up a colony or two from the practice bacteria plate.
+
+Keep your plate close to the flame. 
+Labeled plates → front of the room
+Bacterial waste → red biohazard bag in red bin
+Today: Used disposable loops
+Wipe down benches with 70% ethanol and paper towels
+Remove gloves → dispose of in regular trashExpectations/ground rules:
+Support each other’s learning
+Groups of 2-3 people
+Listen. Cheerlead. Ask clarifying questions: how do you know?
+Respect each other’s time: stay on topic 
+Everyone brings expertise
+
+How the Mystery Microbe Lab will work
+
+In this lab, you’ll run a series of tests on your mystery bacteria, collecting evidence along that way to help narrow down its identity. Some tests will be done by all groups and others will be chosen from a few options based on each group’s previous results. You will need to take careful notes and record your results at each stage.
+In this lab, you’ll take advantage of the diverse structures and functions present in bacteria in order to help distinguish between them. On the following slides, we’ll introduce some of the structures and functions we will observe and test.
+
+Review your responses together before refeMicrobe detective work
+
+Based on what you know about both prokaryotes and cells in general, discuss ideas for how you might distinguish between different kinds of bacteria. What might you observe or test?
+
+Be ready to share your ideas with the class
+rencing the Answer Key (on Canvas)
+
+
+Keep a running list of concepts you would like to review as a class
+ can
+Wash hands with warm water & soap
+Push in stools
+
+air, roll up sleeves 
+Closed-toed shoes
+Gloves Clean surfaces 
+Clean hands
+Alcohol lamp 
+Minimize air contamination 
+Sterilize tools
+Disposable sterile tools
+
+Try one glove of a given size on to deteMicroorganisms are all around us!
+
+rmine what size you will wear.
+
+Lab Partners: Begin your group work contract
+What should come into the classroom on lab days? What should stay outside?
+Where are the sinks?
+Where are the eyewash/shower stations?
+Where are the waste bins? 
+
+
+
+
+ ethanol and wipe thoroughly with 1-2 paper towels.
+Throw away your gloves in the regular trash. 
+Wash your hands with warm water and soap.
+Push in the stools under the lab bench.
+Check with your teacher in order to be excused from the lab. 
+
+1 plastic lighter
+1 permanent marker 
+1 waste beaker
+1 water spray bottle
+
+5. Carefully decolorize the heat-fixed bacteria by [ADD: dipping the slide into the beaker of ethanol.] flooding with 95% ethanol for 15 seconds.
+Important Tip: Gently flood the entire bacterial smear with 95% ethanol on a flat surface using a squeeze bulb pipet, wait for 15 seconds, and then dump ethanol into the liquid waste beaker. 
+
+nd equipment is generally not included, unless necessary or different from the generalized produced that the whole class followed.
+up work contract
+
+AND 1 regular growth agar plate (10 cm) below
+Gram-positive/Gram-negative control plate
+
+1 plastic lighter
+1 permanent marker
+ 
+1 glass slide 
+Tube of 3% potassium hydroxide 
+Plastic squeeze bulb pipette
+bacteria – how did your plating practice go on Lab Day Zero?
+ry species for both tests, and descriptive qualities for all conditions
+
+In your results section, you can explain, “cell wall identity of  Mystery Species X was inconclusive due to mixed color results and missing Gram-positive control.”
+Figure 1: Cell wall identity of MyBecause 
+When the Gram-negative bacteria burst open, their DNA enters the KOH solution and makes it very viscous. This viscosity can be visualized by drawing up on your mixing tool (in this case, a sterile loop) to check for the presence of a “string” of liquid clinging to the loop.
+Gram-negative bacteria have a much thinner peptidoglycan cell wall, they can be lysed by 3% KOH. Gram-positive cell walls, on the other hand, are thick enough to withstand the 3% KOH solution. 
+stery Species X confirmed through two experimental tests.
+Figure 1A. Gram-stained Mystery Species X bacteria at 1000X magnification. 
+Table 1A: Descriptive characteristics of each species after Gram-staining test.
+Figure 1B. Visual result of KOH string test on Mystery Species X bacteria. 
+Table 1B: Descriptive characteristics of each species after KOH string test.
+
+When did life on Earth begin?Homework:
+Please… Example 3
+Figure with images of the Mystery species for both tests, and descriptive qualities for all conditions; inconclusive data for Gram-staining, conclusive data from KOH test.
+Figure 1: Cell wall identity of Mystery Species X through KOH string test
+Figure 1A. Gram-stained Mystery Species X bacteria at 1000X magnification. 
+Table 1A: Descriptive characteristics of each species after Gram-staining test.
+Figure 1B. Visual result of KOH string test on Mystery Species X bacteria. 
+Table 1B: Descriptive characteristics of each species after KOH string test
+
+Leave food, drink, backpacks outside
+Find a seat with your lab partner
+Sterilize your station and picIn biology, we lay out our claim in the “Introduction” section of a lab write-up. Then, we demonstrate our evidence through “Figures.” Finally, we interpret our evidence and provide our reasoning in the “Results and Discussion” section of a lab write-up. 
+k up today’s materials
+Move efficiently and safely
+
+Studying for mA: Check-In Question — Chemistry of Life 
+
+
+Be ready to discuss next class: 
+What might a cell need to survive? What key components of its forms might inform its functions?
+
+
+What defines early life? What was the first lifeform like?
+Where did life begin?
+How did prebiotic chemistry transition to life?
+
+Supplementary textbook readings from the Freeman textbook: Section 2.1 and part of 2.2: Pages 99 - 109 (stop before acid-base chemistry). These sections will review both chemical concepts related to biology & the structure and properties of water. Depending on your comfort with the material, you may need to really dig in or you may just need to do a quick skim to jog your memory.
+Supplemental video review.
+ on electronegativity and intermolecular forces
+Through discussion with your classmates ahead of time!
+remains relatively stable. Why?
+Liquid vs solid phase densities
+The solid form of water, ice, floats. (This is unusual.) How?
+
+Water can move up a tube against the force of gravity. How?
+“Universal” solvent
+Water can dissolve many organic and inorganic substances. How?
+High specific heat capacity 
+The temperature of water remains relatively stable. Why?
+Liquid vs solid phase densities
+The solid form of water, ice, floats. (This is unusual.) How?
+r molecules
+Hydrogen bonds are dynamic (break and reform); dependent on temperature
+
+Bond Polarity
+Molecular Polarity
+
+Deep time: Thinking on evolutionary timescales
+Deep time: Water as essential to life
+Chemistry Review: MolecuFirst check-in question: September 8th-9th (A’ and B’ next week)
+lar structure of water
+Activity: Unique properties of water 
+ years down to nanoseconds, shaped life and its processes?
+What are the molecular artifacts of life? How do the structures of these biological molecules dictate their functions and how has this changed over time?
+Why is life intimately tied to the need for an instructional code that’s heritable and changeable?
+How has evolution shaped life on earth? How has it amplified positive traits and minimized negative traits?
+How and why did the cell come to dominate, constrain, and shape living processes?
+How are the characteristics of an organism shaped by its genetic code and interactions with the environment?
+
+
+Scheduling meetings
+https://calendly.com/rosalindbump/
+
+
+
+Canvas Scavenger Hunt: Welcome Tutorial, Intro Survey, and finding key course resources 
+
+For the Starch Hydrolysis Agar Test how will you know if your bacteria has the amylase enzyme, and is able to use starch as a carbon source?
+Antibiotics kill or inhibit the growth of certain bacteria by targeting a crucial function in those bacterial cells. Antibiotics physically interact with a target protein or other macromolecular structure in a bacterial cell in order to cause their effect (aka their mechanism of action).
+
+In this diagram, you can see the structures of a variety of antibiotics that have various mechanisms of action.
+Other habitat conditions aside from temperature are also crucial to bacterial biology, e.g. salt content
+Enzyme presence/absence (ability to break down particular macromolecules)
+Consider the diversity of cellular life (structure & function, size & scale) around you on the grade-level retreat!
+Homework:
+
+Finish Bio101 Problem Set #1 - Lipids and Carbohydrates 
+
+
+Studying for mA Check-In Question: Lipids and Carbs
+Study groups?
+
+Email rbump@nuevaschool.org for any support being matched with other study partners
