@@ -23,7 +23,7 @@ def get_text(url):
 
 
 
-subjects = ['mathematics', 'biology', 'history', 'computer_science', 'music']
+subjects = ['mathematics', 'science', 'history', 'computer_science', 'music']
 
 
 for subject in subjects:
