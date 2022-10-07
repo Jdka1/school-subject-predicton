@@ -54,5 +54,3 @@ pred_df['text'] = fake_texts
 
 print('Probabilities\n',proba_df,'\n\n')
 print('Predictions\n',pred_df)
-
-# scrape from canvas
