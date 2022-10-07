@@ -4,7 +4,9 @@ from sklearn.feature_extraction.text import TfidfTransformer
 
 import pandas as pd
 
+
 [print('\n') for i in range(10)]
+
 
 data = {
     'texts': [],
@@ -12,7 +14,7 @@ data = {
     'targets': [0, 1, 2]
 }
 
-file_names = ['bio.txt','cs.txt','eng.txt']
+file_names = ['bio.txt']
 for file in file_names:
     with open(file) as f:
         data['texts'].append(f.read().lower())
