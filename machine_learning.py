@@ -19,11 +19,11 @@ data = {
 }
 
 
-files = os.listdir('school-subject-prediction/articles/')
+files = os.listdir('articles/')
 for file in files:
     data['target_names'].append(file[:-4])
 
-    with open(f'school-subject-prediction/articles/{file}', 'r') as f:
+    with open(f'articles/{file}', 'r') as f:
         data['texts'].append(f.read().lower())
 
 
@@ -40,7 +40,7 @@ model = MultinomialNB().fit(term_freq, data['targets'])
 
 
 fake_texts = [
-    'biology'
+'biology'
 ]
 
 fake_texts = [text.lower() for text in fake_texts]
@@ -60,9 +60,9 @@ probabilities = model.predict_proba(fake_term_freq)
 
 
 
-# proba_df = pd.DataFrame(probabilities, columns=data['target_names'])
-# pred_df = pd.DataFrame([data['target_names'][prediction] for prediction in predictions])
-# pred_df['text'] = fake_texts
+proba_df = pd.DataFrame(probabilities, columns=data['target_names'])
+pred_df = pd.DataFrame([data['target_names'][prediction] for prediction in predictions])
+pred_df['text'] = fake_texts
 
-# print('Probabilities\n',proba_df,'\n\n')
-# print('Predictions\n',pred_df)
+print('Probabilities\n',proba_df,'\n\n')
+print('Predictions\n',pred_df)

@@ -22,15 +22,24 @@ def get_text(url):
 
 
 
-
 subjects = ['mathematics', 'science', 'history', 'computer_science', 'music']
 
 
 for subject in subjects:
-    urls = find_urls(subject)
-    all_wiki_pages = ''.join([get_text(url) for url in urls])
+    new_query = subject
+    all_wiki_pages = ''
 
-    filename = f'{subject}.txt'
-    with open(f'school-subject-predictor/articles/{filename}','w') as f:
+    for i in range(2):
+        urls = find_urls(new_query)
+        all_wiki_pages = all_wiki_pages.join([get_text(url) for url in urls])
+        try:
+            new_query = urls[1][30:]
+        except Exception:
+            break
+
+
+
+    filename = f'articles/{subject}.txt'
+    with open(f'{filename}','w') as f:
         f.write(all_wiki_pages)
 
