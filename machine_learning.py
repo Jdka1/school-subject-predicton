@@ -40,7 +40,7 @@ model = MultinomialNB().fit(term_freq, data['targets'])
 
 
 fake_texts = [
-'biology'
+'for this problem you have to use the pythagorean theorem',   
 ]
 
 fake_texts = [text.lower() for text in fake_texts]
