@@ -7,7 +7,7 @@ from sklearn.feature_extraction.text import TfidfTransformer
 import pandas as pd
 
 
-[print('\n') for i in range(10)]
+print('\n'*10)
 
 
 
@@ -40,7 +40,7 @@ model = MultinomialNB().fit(term_freq, data['targets'])
 
 
 fake_texts = [
-'for this problem you have to use the pythagorean theorem',   
+'bacteria lab',   
 ]
 
 fake_texts = [text.lower() for text in fake_texts]
