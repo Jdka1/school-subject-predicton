@@ -2,7 +2,7 @@ import requests
 import json
 from bs4 import BeautifulSoup
 
-[print('\n') for i in range(10)]
+print('\n'*10)
 
 
 def find_urls(query):
